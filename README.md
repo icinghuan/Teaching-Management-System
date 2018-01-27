@@ -1,3 +1,5 @@
+# Teaching-Management-System
+
 用jsp+servlet+mysql做的教学管理系统</br>
 
 采用Java平台开发，主要用到的技术有JSP、Servlet、JDBC，数据库为MySQL。具体软件列表如下:</br>
